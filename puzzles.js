@@ -43,5 +43,52 @@ window.PUZZLES = [
         "items": ["Adverse Selection", "Moral Hazard", "Asymmetric Information", "Bounded Rationality"] }
     ]
   },
-
+  {
+    "id": "factors-affecting-demand-and-s-v3k7",
+    "week": "T2W1",
+    "topic": "Demand and Supply (Theme 2.1)",
+    "title": "Factors affecting Demand and Supply",
+    "categories": [
+      {
+        "description": "Rightward shift in demand curve for Labubu",
+        "explanation": "Non-price factors (EGYPTWIPED) leading to a rightward shift of demand",
+        "items": [
+          "Lisa's Labubu goes viral",
+          "Price of Monchichi rises",
+          "Price of Labubu accessories fall",
+          "Rise in expected prices of blind boxes"
+        ]
+      },
+      {
+        "description": "Rightward shift in supply curve for iPad Air",
+        "explanation": "Non-price factors (WETPIGS) leading to a rightward shift of supply",
+        "items": [
+          "Price of Apple's M2 chip falls",
+          "Rapid advancements in chip-making technology",
+          "Rise in the price of iPad Mini",
+          "Lax labour laws in China"
+        ]
+      },
+      {
+        "description": "Movement along demand curve for the Weeknd tickets",
+        "explanation": "Supply shifts leading to a fall in equilibrium price and rise in quantity demanded (Law of Demand)",
+        "items": [
+          "Fall in number of concert scalpers",
+          "Increase rental fee for National Stadium",
+          "Price of ticket falls",
+          "Quantity demanded for ticket increases"
+        ]
+      },
+      {
+        "description": "Movement along supply curve for F1 tickets",
+        "explanation": "Demand shifts leading to a rise in equilibrium price and rise in quantity supplied (Law of Supply)",
+        "items": [
+          "Increased popularity of F1 driver Max Verstappen",
+          "Fall in price of Redbull Racing merchandise",
+          "Price of tickets rises",
+          "Quantity supplied of ticket increases"
+        ]
+      }
+    ]
+  },
 ];
