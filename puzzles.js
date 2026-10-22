@@ -17,7 +17,7 @@ window.PUZZLES = [
         "items": ["Printers & Ink", "Cars & Petrol", "Beef & Cowhide", "Console & Games"] },
       { "description": "Determinants of PES",
         "explanation": "Factors that decide how quickly output can respond to a price change.",
-        "items": ["Spare Capacity", "Production Period", "Factor Mobility", "Input Availability"] },
+        "items": ["Spare Capacity", "Production Period", "Factor Mobility", "Level of Inventory"] },
       { "description": "Inferior goods (YED < 0)",
         "explanation": "Demand falls as real income rises.",
         "items": ["Instant Noodles", "Public Bus Rides", "Canned Food", "Second-hand Clothes"] }
@@ -29,18 +29,18 @@ window.PUZZLES = [
     "topic": "Market Failure",
     "title": "Externalities & Public Goods",
     "categories": [
+       { "description": "Sources of Market Failure",
+        "explanation": "No explanation needed.",
+        "items": ["Adverse Selection", "Moral Hazard", "Missing Market", "Externalities"] },
       { "description": "Demerit goods with negative consumption externalities",
         "explanation": "Consumption creates marginal external cost (MEC) for third parties.",
         "items": ["Cigarettes", "Alcohol", "Sugary Drinks", "Single-Use Plastics"] },
       { "description": "Characteristics of public goods",
         "explanation": "Non-rivalry and non-excludability lead to the free-rider problem.",
-        "items": ["Non-rivalrous", "Non-excludable", "Zero Marginal Cost", "Missing Market"] },
+        "items": ["Non-rivalrous", "Non-excludable", "Zero Marginal Cost", "Non-rejectable"] },
       { "description": "Government interventions for market failure",
         "explanation": "Corrective policies aimed at improving allocative efficiency.",
-        "items": ["Pigouvian Tax", "Subsidies", "Direct Provision", "Regulation"] },
-      { "description": "Sources of imperfect information",
-        "explanation": "Participants misjudge private costs or benefits.",
-        "items": ["Adverse Selection", "Moral Hazard", "Asymmetric Information", "Bounded Rationality"] }
+        "items": ["Pigouvian Tax", "Subsidies", "Direct Provision", "Regulation"] }
     ]
   },
   {
